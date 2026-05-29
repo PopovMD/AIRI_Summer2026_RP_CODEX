@@ -1,4 +1,4 @@
-# DEG-weighted Gaussian NLL patch for sschrod/CODEX
+# DEG-weighted Gaussian NLL patch for CODEX
 
 This patch modifies the Norman/GEARS gene perturbation workflow:
 
